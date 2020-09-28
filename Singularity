@@ -2,7 +2,7 @@ Bootstrap: docker
 From: ubuntu:18.04
 
 %labels
-	CREATER Sheng
+	CREATER Shengg
 %post
     # Downloads the latest package lists (important).
     #apt -y install software-properties-common
