@@ -24,10 +24,11 @@ From: ubuntu:18.04
     # Install Python modules.
     pip3 install setuptools
     #pip3 install numpy scipy pandas sklearn simplejson glob3 python-csv
-    pip3 install numpy scipy pandas sklearn simplejson pycopy-glob3 
+    pip3 install numpy scipy pandas sklearn simplejson xgboost
     #apt-get install -y ruby-dev
     #apt-get gem install json
     #pip install simplejson
+    pip3 install -v requests -i https://pypi.org/project/pycopy-glob/pycopy-glob3
     #pip3 install -v requests -i https://pypi.python.org/simple/pdb
     #pip3 install numpy sklearn json pdb csv
 
