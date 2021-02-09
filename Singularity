@@ -24,7 +24,7 @@ From: ubuntu:18.04
     # Install Python modules.
     pip3 install setuptools
     #pip3 install numpy scipy pandas sklearn simplejson glob3 python-csv
-    pip3 install numpy scipy pandas sklearn simplejson glob3 xgboost
+    pip3 install numpy scipy pandas sklearn simplejson glob3 
     #apt-get install -y ruby-dev
     #apt-get gem install json
     #pip install simplejson
